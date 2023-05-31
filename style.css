@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(0, 0, 0, 0.897);
+}
+
+p, h1, h2 {
+    color: white;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+p {
+    font-size: 23px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    background-color: rgba(97, 95, 95, 0.719);
+}
+
+.dialogo {
+    padding: 50px;
+    background-color: rgba(97, 95, 95, 0.719);
+    height: 1000px;
+    width: 600px;
+    align-items: center;
+    justify-items: center;
+}
+
+div.dialogo {
+    margin-left: 100px;
+}
+
+img {
+    height: 820px;
+}
